@@ -1,3 +1,4 @@
+This is desktop based Application.
 This project is built using core java, javaFx and screenbuilder, 
 This Application is basicaly VideoPlayer with basic operations like:
 1. inserting video
