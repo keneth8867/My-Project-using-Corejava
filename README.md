@@ -1,4 +1,4 @@
-This project is built using core , javaFx and screenbuilder, 
+This project is built using core java, javaFx and screenbuilder, 
 This Application is basicaly VideoPlayer with basic operations like:
 1. inserting video
 2. playing video
